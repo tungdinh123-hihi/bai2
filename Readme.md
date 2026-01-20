@@ -1,3 +1,3 @@
-TEM: Dinh Quang Tung
+TEN: Dinh Quang Tung
 MSV:23810310337
 ![alt text](image.png)
